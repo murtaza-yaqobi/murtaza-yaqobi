@@ -9,7 +9,7 @@ I am a Frontend Developer on making web applications, web site using React.js an
 🌐 Git, GitHub                                                                                                                                                                                                      
 
 
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[default]: https://github-readme-stats.vercel.app/api?murtaza-yaqobi=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 <!--
 **murtaza-yaqobi/murtaza-yaqobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
