@@ -1,11 +1,13 @@
 ## Hi there 👋 I am Murtaza Yaqobi
 
+
+💅 CSS, Tailwind CSS, Styled-Components
 <!--
 **murtaza-yaqobi/murtaza-yaqobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-💅 CSS, Tailwind CSS, Styled-Components
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
