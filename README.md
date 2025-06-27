@@ -8,7 +8,7 @@ I am a Frontend Developer on making web applications, web site using React.js an
 🚀 Projects                                                                                                                                                                                                         
 🌐 Git, GitHub                                                                                                                                                                                                      
 
-## My Code
+## My Code Stats 🧑🏽‍💻
 ![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
