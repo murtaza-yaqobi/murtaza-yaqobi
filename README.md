@@ -9,7 +9,7 @@ I am a Frontend Developer on making web applications, web site using React.js an
 🌐 Git, GitHub                                                                                                                                                                                                      
 
 ## My Code
-![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?murtaza=anuraghazra&show_icons=true&theme=transparent)
+![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?=anuraghazra&show_icons=true&theme=transparent)
 
 
 
