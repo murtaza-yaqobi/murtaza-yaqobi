@@ -6,7 +6,12 @@ I am a Frontend Developer on making web applications, web site using React.js an
 💅 CSS, Tailwind CSS, Styled-Components                                                                                                                                                                          
 ⚙️ JavaScript, TypeScript                                                                                                                                                                                        
 🚀 Projects                                                                                                                                                                                                         
-🌐 Git, GitHub                                                                                                                                                                                                      
+🌐 Git, GitHub                                                                                                                                                                                                    
+
+
+## My Skill 💻                                                                                                                                                                                                     
+HTML5, CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
+
 
 ## My Code Stats 🧑🏽‍💻
 ![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
