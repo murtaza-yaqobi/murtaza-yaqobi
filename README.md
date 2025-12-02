@@ -13,6 +13,18 @@ I am a Frontend Developer on making web applications, web site using React.js an
 
 If you like this project, please give it a star ⭐ on GitHub — it helps a lot!
 
+##  Tech Stack 🛠️
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Vite / CRA (choose one)
+
+Optional: Axios, React Router, Zustand, etc.
+
 ## My Skill 💻                                                                                                                                                                                                     
 HTML5,   CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
 
