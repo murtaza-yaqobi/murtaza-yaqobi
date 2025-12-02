@@ -25,8 +25,29 @@ Vite / CRA (choose one)
 
 Optional: Axios, React Router, Zustand, etc.
 
-## My Skill 💻                                                                                                                                                                                                     
-HTML5,   CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
+# 👨‍💻 My Skills
+
+Welcome to my GitHub!  
+I am a passionate web developer focused on building modern, responsive, and user-friendly web applications.
+
+---
+
+## 🚀 Technologies & Skills
+
+### 🌐 Frontend Development
+- HTML5
+- CSS3 / Tailwind CSS
+- JavaScript (ES6+)
+- TypeScript
+- React / Next.js
+- Responsive Web Design
+
+### 🛠 Backend & API
+- Node.js (basic)
+- REST APIs
+- Fetch / Axios
+- JSON Handling
+
 
 
 ##  Contact 📫
