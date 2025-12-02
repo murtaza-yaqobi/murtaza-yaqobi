@@ -10,7 +10,7 @@ I am a Frontend Developer on making web applications, web site using React.js an
 
 
 ## My Skill 💻                                                                                                                                                                                                     
-HTML5, CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
+HTML5,   CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
 
 
 ## My Code Stats 🧑🏽‍💻
