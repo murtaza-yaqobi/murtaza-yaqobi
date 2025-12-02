@@ -29,6 +29,13 @@ Optional: Axios, React Router, Zustand, etc.
 HTML5,   CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
 
 
+##  Contact 📫
+If you'd like to collaborate or say hi, feel free to reach out.
+
+- **Email:** murtazayaqobi7@gmail.com  
+- **GitHub:** https://github.com/murtaza-yaqobi
+
+
 ## My Code Stats 🧑🏽‍💻
 ![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
