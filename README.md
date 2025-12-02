@@ -9,6 +9,10 @@ I am a Frontend Developer on making web applications, web site using React.js an
 🌐 Git, GitHub                                                                                                                                                                                                    
 
 
+##  Support ⭐
+
+If you like this project, please give it a star ⭐ on GitHub — it helps a lot!
+
 ## My Skill 💻                                                                                                                                                                                                     
 HTML5,   CSS3, Javascript, Typescript, Tailwindcss, React, Next.js, Fremer Motion
 
