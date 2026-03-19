@@ -36,6 +36,7 @@ I am a passionate web developer focused on building modern, responsive, and user
 - JavaScript (ES6+)
 - TypeScript
 - React / Next.js
+- - PHP
 - Responsive Web Design
 
 ### 🛠 Backend & API
